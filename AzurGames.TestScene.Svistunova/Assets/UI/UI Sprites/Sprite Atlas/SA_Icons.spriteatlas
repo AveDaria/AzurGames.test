@@ -1,0 +1,115 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: SA_Icons
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 1024
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 1
+      m_CompressionQuality: 0
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 40c979746efd6854d98d7d31af138b6b, type: 3}
+    - {fileID: 2800000, guid: 4656722aef15225498ca65d9b09b42e4, type: 3}
+    - {fileID: 2800000, guid: d5841e0d4eb8f3640b36a368e00fe69e, type: 3}
+    - {fileID: 2800000, guid: 73b0ebad8fa6a2b4fa2c768ae363de22, type: 3}
+    - {fileID: 2800000, guid: 613246e8449e0a14aa7eb8b1d25ad854, type: 3}
+    - {fileID: 2800000, guid: e4def0e433afba24f9626a002c45034e, type: 3}
+    - {fileID: 2800000, guid: c15f30484e9872e43b43cd23dc6799cd, type: 3}
+    - {fileID: 2800000, guid: 2ed18ce696a27e74295b73c5131e3258, type: 3}
+    - {fileID: 2800000, guid: 1b71e4a578f31af40bf50fd4f69ab886, type: 3}
+    - {fileID: 2800000, guid: 8a0c8791415615e449f8cecea8631d6e, type: 3}
+    - {fileID: 2800000, guid: 9a0e0b941da76d042aac1c3b1cd69afd, type: 3}
+    - {fileID: 2800000, guid: 40e289a0c4e617c4c99e5f5810f782fb, type: 3}
+    - {fileID: 2800000, guid: 927df35761b1e8741950013b3e07c15d, type: 3}
+    - {fileID: 2800000, guid: 256271d0f1ae9ac4aa92be5ce4020bab, type: 3}
+    - {fileID: 2800000, guid: 27d0192a417598946ba9056cad612ab8, type: 3}
+    - {fileID: 2800000, guid: a98adf8368071eb4191439fafcf3471d, type: 3}
+    - {fileID: 2800000, guid: 61d075d7134538f4781c0b0475658f54, type: 3}
+    - {fileID: 2800000, guid: d8d17b222c5f3d4438de689bbcfb7915, type: 3}
+    - {fileID: 2800000, guid: 5d006dc6fb6c8c249aaeabc2f86f5370, type: 3}
+    - {fileID: 2800000, guid: 8cc692780c43ea145b79ff98eb1fdd19, type: 3}
+    totalSpriteSurfaceArea: 118092
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 40e289a0c4e617c4c99e5f5810f782fb, type: 3}
+  - {fileID: 21300000, guid: 256271d0f1ae9ac4aa92be5ce4020bab, type: 3}
+  - {fileID: 21300000, guid: 8a0c8791415615e449f8cecea8631d6e, type: 3}
+  - {fileID: 21300000, guid: d8d17b222c5f3d4438de689bbcfb7915, type: 3}
+  - {fileID: 21300000, guid: a98adf8368071eb4191439fafcf3471d, type: 3}
+  - {fileID: 21300000, guid: 40c979746efd6854d98d7d31af138b6b, type: 3}
+  - {fileID: 21300000, guid: 9a0e0b941da76d042aac1c3b1cd69afd, type: 3}
+  - {fileID: 21300000, guid: e4def0e433afba24f9626a002c45034e, type: 3}
+  - {fileID: 21300000, guid: 1b71e4a578f31af40bf50fd4f69ab886, type: 3}
+  - {fileID: 21300000, guid: 5d006dc6fb6c8c249aaeabc2f86f5370, type: 3}
+  - {fileID: 21300000, guid: 2ed18ce696a27e74295b73c5131e3258, type: 3}
+  - {fileID: 21300000, guid: 927df35761b1e8741950013b3e07c15d, type: 3}
+  - {fileID: 21300000, guid: 61d075d7134538f4781c0b0475658f54, type: 3}
+  - {fileID: 21300000, guid: c15f30484e9872e43b43cd23dc6799cd, type: 3}
+  - {fileID: 21300000, guid: 8cc692780c43ea145b79ff98eb1fdd19, type: 3}
+  - {fileID: 21300000, guid: 613246e8449e0a14aa7eb8b1d25ad854, type: 3}
+  - {fileID: 21300000, guid: 4656722aef15225498ca65d9b09b42e4, type: 3}
+  - {fileID: 21300000, guid: 27d0192a417598946ba9056cad612ab8, type: 3}
+  - {fileID: 21300000, guid: d5841e0d4eb8f3640b36a368e00fe69e, type: 3}
+  - {fileID: 21300000, guid: 73b0ebad8fa6a2b4fa2c768ae363de22, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Res_01
+  - Res_03
+  - Icons_Res_4_text
+  - Train_Wagons_03
+  - Train_Wagons_01
+  - Arrow
+  - Icons_Stat
+  - Icons_Res_1
+  - Icons_Res_4
+  - Train_Wagons_Empty
+  - Icons_Res_3
+  - Res_02
+  - Train_Wagons_02
+  - Icons_Res_2
+  - Union
+  - Icons_Ntf
+  - Icons_Coins
+  - Train_Loco
+  - Icons_Dollars
+  - Icons_Game_image 15
+  m_RenderDataMap: {}
+  m_Tag: SA_Icons
+  m_IsVariant: 0

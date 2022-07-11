@@ -1,0 +1,79 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: SA_Buttons
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 8
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: a65be1ef0f582474490d6ee5eb1e8dd9, type: 3}
+    - {fileID: 2800000, guid: 13b381c73923859438810eaaf0797556, type: 3}
+    - {fileID: 2800000, guid: f4c7540c5d3fa0946b10f6c952d63bd8, type: 3}
+    - {fileID: 2800000, guid: 1b281f7309eafc347a70280381a122f3, type: 3}
+    - {fileID: 2800000, guid: 5be64624c61a43a46b8b882cf9ad1d38, type: 3}
+    - {fileID: 2800000, guid: 647358536f3bf8549ae60c2cf8238d5c, type: 3}
+    - {fileID: 2800000, guid: d15aa4d0134054143b77965f2e3815de, type: 3}
+    - {fileID: 2800000, guid: a045adbe9b55cfe4ab24885033a08611, type: 3}
+    - {fileID: 2800000, guid: 21c62bee55214ae4fb382b2c0f8b2736, type: 3}
+    - {fileID: 2800000, guid: cc827bcea5bfa76439e16d3c4627b805, type: 3}
+    - {fileID: 2800000, guid: 7039c051f7e23374884258f557b18d2b, type: 3}
+    - {fileID: 2800000, guid: ebcaa0745d438204b830de5a8f020931, type: 3}
+    totalSpriteSurfaceArea: 70620
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: d15aa4d0134054143b77965f2e3815de, type: 3}
+  - {fileID: 21300000, guid: 7039c051f7e23374884258f557b18d2b, type: 3}
+  - {fileID: 21300000, guid: 647358536f3bf8549ae60c2cf8238d5c, type: 3}
+  - {fileID: 21300000, guid: 1b281f7309eafc347a70280381a122f3, type: 3}
+  - {fileID: 21300000, guid: 5be64624c61a43a46b8b882cf9ad1d38, type: 3}
+  - {fileID: 21300000, guid: ebcaa0745d438204b830de5a8f020931, type: 3}
+  - {fileID: 21300000, guid: 13b381c73923859438810eaaf0797556, type: 3}
+  - {fileID: 21300000, guid: f4c7540c5d3fa0946b10f6c952d63bd8, type: 3}
+  - {fileID: 21300000, guid: a045adbe9b55cfe4ab24885033a08611, type: 3}
+  - {fileID: 21300000, guid: cc827bcea5bfa76439e16d3c4627b805, type: 3}
+  - {fileID: 21300000, guid: 21c62bee55214ae4fb382b2c0f8b2736, type: 3}
+  - {fileID: 21300000, guid: a65be1ef0f582474490d6ee5eb1e8dd9, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Sidebar_Button
+  - Tab 1
+  - Itens_Button_Price
+  - Info_Button
+  - Items_Button
+  - Tab 2
+  - 3
+  - Delete
+  - Sidebar_Button_Disable
+  - Sidebar_Button_Price
+  - Sidebar_Button_non
+  - 02.1
+  m_RenderDataMap: {}
+  m_Tag: SA_Buttons
+  m_IsVariant: 0
